@@ -63,6 +63,8 @@
 
 <br/>  
 
+<table><tr><td valign="top" width="33%">
+
 ### Github Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pal18T)](https://git.io/streak-stats)
