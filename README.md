@@ -19,12 +19,10 @@
 <img style="margin: 10px" src="https://svg-files.pixelied.com/7ffdb967-8633-421d-9916-4e3eafedde68/thumb-256px.png" alt="Next.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=512" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=webp&w=512" alt="Flutter" height="50" /> 
-
 </div></td><td valign="top" width="33%">
-
 <br/>
 
-### Backend  
+ ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://svg-files.pixelied.com/ad0fb35a-528f-4db8-91d2-ceb44f714b4f/thumb-256px.png" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-2038880-1720093.png?f=webp&w=512" alt="Bootstrap" height="50" />  
@@ -34,10 +32,9 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=512" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://svg-files.pixelied.com/7ffdb967-8633-421d-9916-4e3eafedde68/thumb-256px.png" alt="Next.js" height="50" />  
 </div></td><td valign="top" width="33%">
-
 <br/>
 
-### Language and Database  
+ ### Language and Database  
 <div align="center">  
 <img style="margin: 10px" src="https://svg-files.pixelied.com/ad0fb35a-528f-4db8-91d2-ceb44f714b4f/thumb-256px.png" alt="React" height="50" /> 
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-2038880-1720093.png?f=webp&w=512" alt="Bootstrap" height="50" />  
@@ -50,7 +47,7 @@
 
  <br/>
 
- ## Connect with me  
+ ### Connect with me  
 <div align="center">
 <a href="https://github.com/Pal18T" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -73,16 +70,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pal18T&show_icons=true&count_private=true" align="center" /></div>  
+  
 
-<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Pal18T&&style=flat-square" align="center" />
-</div>  
-
-<br />
 
 
 
