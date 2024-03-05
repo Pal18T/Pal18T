@@ -22,7 +22,7 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=512" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=webp&w=512" alt="Flutter" height="50" /> 
  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=512" alt="C++" height="50" /> 
-<img style="margin: 10px" src="https://icons8.com/icon/13679/java" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=512" alt="Java" height="50" />  
   
 
 </div></td><td valign="top" width="33%">
@@ -36,6 +36,7 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-npm-226037.png?f=webp&w=512" alt="npm" height="50" />   
 <img style="margin: 10px" src="https://svg-files.pixelied.com/91c9f255-42d3-4fcf-bc1d-f198d0e9ae4e/thumb-256px.png" alt="npm" height="50" />
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-3521427-2944871.png?f=webp&w=512" alt="firebase" height="50" />
+ <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=512" alt="AWS" height="50" />
 </div></td><td valign="top" width="33%">
  
 <br/>
