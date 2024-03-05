@@ -21,6 +21,10 @@
 <img style="margin: 10px" src="https://svg-files.pixelied.com/7ffdb967-8633-421d-9916-4e3eafedde68/thumb-256px.png" alt="Next.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=512" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-flutter-2038877-1720090.png?f=webp&w=512" alt="Flutter" height="50" /> 
+ <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=512" alt="C++" height="50" /> 
+<img style="margin: 10px" src="https://icons8.com/icon/13679/java" alt="Java" height="50" />  
+  
+
 </div></td><td valign="top" width="33%">
 
  ### Backend  
@@ -29,17 +33,12 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=512" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://i.pinimg.com/736x/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.jpg" alt="Prisma ORM" height="50" />  
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-nodejs-2-226035.png?f=webp&w=512" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://icons8.com/icon/24895/npm" alt="npm" height="50" />   
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-npm-226037.png?f=webp&w=512" alt="npm" height="50" />   
+<img style="margin: 10px" src="https://svg-files.pixelied.com/91c9f255-42d3-4fcf-bc1d-f198d0e9ae4e/thumb-256px.png" alt="npm" height="50" />
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-3521427-2944871.png?f=webp&w=512" alt="firebase" height="50" />
 </div></td><td valign="top" width="33%">
-
- ### Language and Database  
-<div align="center">  
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=512" alt="C++" height="50" /> 
-<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=512" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://icons8.com/icon/13679/java" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://icons8.com/icon/yVhO6IrLt66u/data-migration" alt="Data Scrapper" height="50" />  
-
- <br/>
+ 
+<br/>
 
  ### Connect with me  
 <div align="center">
