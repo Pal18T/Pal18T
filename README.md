@@ -23,16 +23,29 @@
 </div></td><td valign="top" width="33%">
 
 <br/>
+
 ### Backend  
 <div align="center">  
-
+<img style="margin: 10px" src="https://svg-files.pixelied.com/ad0fb35a-528f-4db8-91d2-ceb44f714b4f/thumb-256px.png" alt="React" height="50" /> 
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-2038880-1720093.png?f=webp&w=512" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=webp&w=512" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-40-1175193.png?f=webp&w=512" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=512" alt="Tailwind CSS" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=512" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://svg-files.pixelied.com/7ffdb967-8633-421d-9916-4e3eafedde68/thumb-256px.png" alt="Next.js" height="50" />  
 </div></td><td valign="top" width="33%">
 
 <br/>
 
 ### Language and Database  
 <div align="center">  
-
+<img style="margin: 10px" src="https://svg-files.pixelied.com/ad0fb35a-528f-4db8-91d2-ceb44f714b4f/thumb-256px.png" alt="React" height="50" /> 
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-bootstrap-2038880-1720093.png?f=webp&w=512" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-css3-11-1175239.png?f=webp&w=512" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-html5-40-1175193.png?f=webp&w=512" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-tailwind-css-5285308-4406745.png?f=webp&w=512" alt="Tailwind CSS" height="50" />  
+<img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-24-1174950.png?f=webp&w=512" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://svg-files.pixelied.com/7ffdb967-8633-421d-9916-4e3eafedde68/thumb-256px.png" alt="Next.js" height="50" />  
 </div></td><td valign="top" width="33%">
 
  <br/>
