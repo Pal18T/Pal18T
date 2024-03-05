@@ -22,10 +22,13 @@
 
 </div></td><td valign="top" width="33%">
 
+<br/>
 ### Backend  
 <div align="center">  
 
 </div></td><td valign="top" width="33%">
+
+<br/>
 
 ### Language and Database  
 <div align="center">  
@@ -49,7 +52,7 @@
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 alt=Leetcode style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/prince_1_8_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -58,12 +61,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Pal18T&show_icons=true&count_private=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Pal18T&&style=flat-square" align="center" />
 </div>  
 
 <br />
