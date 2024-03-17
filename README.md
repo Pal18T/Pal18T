@@ -8,7 +8,7 @@
 <br/>
 
 ## My Skill Set
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="43%">
 
 ### Frontend  
 <div align="center">  
@@ -25,7 +25,7 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-java-60-1174953.png?f=webp&w=512" alt="Java" height="50" />  
   
 
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="43%">
 
  ### Backend  
 <div align="center">  
@@ -39,7 +39,7 @@
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-3521427-2944871.png?f=webp&w=512" alt="firebase" height="50" />
  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=512" alt="AWS" height="50" />
  
-</div></td><td valign="top" width="33%">
+</div></td><td valign="top" width="43%">
  
 <br/>
 
@@ -65,7 +65,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="53%">
 
 ### Github Stats
 
