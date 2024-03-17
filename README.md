@@ -29,6 +29,7 @@
 
  ### Backend  
 <div align="center">  
+ 
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mysql-3628940-3030165.png?f=webp&w=512" alt="MySql" height="50" /> 
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-4-1175139.png?f=webp&w=512" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://i.pinimg.com/736x/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.jpg" alt="Prisma ORM" height="50" />  
@@ -37,6 +38,7 @@
 <img style="margin: 10px" src="https://svg-files.pixelied.com/91c9f255-42d3-4fcf-bc1d-f198d0e9ae4e/thumb-256px.png" alt="npm" height="50" />
 <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-firebase-3521427-2944871.png?f=webp&w=512" alt="firebase" height="50" />
  <img style="margin: 10px" src="https://cdn.iconscout.com/icon/free/png-512/free-aws-1869025-1583149.png?f=webp&w=512" alt="AWS" height="50" />
+ 
 </div></td><td valign="top" width="33%">
  
 <br/>
